@@ -1,3 +1,5 @@
+List of instances selected to perform experiments with versions of CP+PIS procedure
+
 TB1 
 
 p5
