@@ -11,7 +11,3 @@ run:comp-pc
 clean:
 	rm -f  *.out *.aux *.log *.nav *.snm *.out *.toc 
 
-
-
-#ILOG=/opt/ibm/ILOG/CPLEX_Studio1271
-#CFLAGS= -Wall -m64 -o2 
