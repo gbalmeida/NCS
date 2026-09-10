@@ -1,0 +1,11 @@
+The format of these data files is:
+
+number of potential locations (m), number of
+customers (n)
+for each potential location i (i=1,...,m): 
+capacity, fixed cost
+for each customer j (j=1,...,n): demand, cost of allocating
+all of the demand of j to i (i=1,...,m)
+
+
+
