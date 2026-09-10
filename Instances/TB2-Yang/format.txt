@@ -1,0 +1,39 @@
+# Instance Format — TB2 (Yang et al., 2012)
+
+Each SSCFLP instance file contains the problem parameters structured as follows:
+
+## Parameters Definition
+- n: number of potential facility locations (i = 1, ..., n)
+- m: number of customers (j = 1, ..., m)
+- b_i: capacity of the facility located at site i
+- f_i: fixed cost of opening a facility at site i
+- d_j: demand of customer j
+- c_ij: allocation (assignment) cost of customer j to the facility located at site i
+
+---
+
+## File Structure
+
+The instance input file is organized as follows:
+
+n, m
+b_1, f_1
+b_2, f_2
+b_3, f_3
+...
+b_n, f_n
+d_1, d_2, d_3, ..., d_m
+c_11, c_12, c_13, ..., c_1m
+c_21, c_22, c_23, ..., c_2m
+c_31, c_32, c_33, ..., c_3m
+...
+c_n1, c_n2, c_n3, ..., c_nm
+
+---
+
+## Line-by-Line Breakdown
+
+1. Line 1: Two values indicating the number of candidate locations n and the number of customers m.
+2. Next n lines: For each location i = 1, ..., n, two values representing capacity b_i and fixed setup cost f_i.
+3. Next line: m values indicating the demands d_1, d_2, ..., d_m for all customers.
+4. Next n lines: For each location i = 1, ..., n, a row of m values representing the assignment costs c_i1, c_i2, ..., c_im to each customer.
