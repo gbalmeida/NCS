@@ -40,7 +40,7 @@ https://github.com/SuneGadegaard/SSCFLPsolver/blob/master/All_instances_for_Imp_
 Beasley, J. E. (1988). An algorithm for solving large capacitated warehouse location problems. *European Journal of Operational Research*, 33(3), 314–325.
 
 **Downloaded from:**  
-[https://or-brescia.unibs.it/instances/instances_sscflp](https://people.brunel.ac.uk/~mastjjb/jeb/orlib/capinfo.html](https://people.brunel.ac.uk/~mastjjb/jeb/orlib/capinfo.html)
+https://people.brunel.ac.uk/~mastjjb/jeb/orlib/capinfo.html
 
 ---
 
