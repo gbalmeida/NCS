@@ -30,7 +30,7 @@ https://or-brescia.unibs.it/instances/instances_sscflp
 Gadegaard, S., Klose, A., & Nielsen, L. (2018). An improved cut-and-solve algorithm for the single-source capacitated facility location problem. *EURO Journal on Computational Optimization*, 6(1), 1–27.
 
 **Downloaded from:**  
-https://github.com/SuneGadegaard/SSCFLPsolver/blob/master/All_instances_for_Imp_CnS.zip (folder `AnImprovedCutAndSolveAlgorithm`)
+https://github.com/SuneGadegaard/SSCFLPsolver/blob/master/All_instances_for_Imp_CnS.zip 
 
 ---
 
