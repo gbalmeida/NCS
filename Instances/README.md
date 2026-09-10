@@ -34,7 +34,7 @@ https://github.com/SuneGadegaard/SSCFLPsolver/blob/master/All_instances_for_Imp_
 
 ---
 
-### TB4 — OR-4
+### TB4 — OR-4 (capa, capb and capc)
 
 **Reference:**  
 Beasley, J. E. (1988). An algorithm for solving large capacitated warehouse location problems. *European Journal of Operational Research*, 33(3), 314–325.
