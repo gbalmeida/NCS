@@ -44,7 +44,7 @@ https://people.brunel.ac.uk/~mastjjb/jeb/orlib/capinfo.html
 
 ---
 
-### TB5 — TBED1
+### TB5 — (Avella&Boccia)
 
 **Reference:**  
 Avella, P., & Boccia, M. (2009). A cutting plane algorithm for the capacitated facility location problem. *Computational Optimization and Applications*, 43(1), 39–65.
