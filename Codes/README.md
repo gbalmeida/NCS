@@ -1,6 +1,6 @@
 # Source Code - Algorithms and Procedures
 
-This directory contains the C++ implementation of the algorithms and cutting plane procedures proposed in the manuscript.
+This directory contains the C++ source code and procedures used to execute the NCS algorithm
 
 ---
 
