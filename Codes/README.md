@@ -1,14 +1,14 @@
 # Source Code - Algorithms and Procedures
 
-This directory contains the C++ source code and procedures used to execute the NCS algorithm
+This directory contains all code used to generate the results reported in the paper
 
 ---
 
-## 1. Requirements
+## 1. Requirements and Dependencies
 
 - **Operating System:** Linux (tested on Ubuntu 24.04 LTS, 64-bit)
 - **Compiler:** `g++` (GCC) with 64-bit support (`-m64`)
-- **Mathematical Programming Solver:** IBM ILOG CPLEX Optimization Studio (version 22.1.1 or compatible)
+- **Mathematical Programming Solver (Dependency):** IBM ILOG CPLEX Optimization Studio (version 22.1.1 or compatible)
 
 ---
 
