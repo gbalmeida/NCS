@@ -1,3 +1,5 @@
+List of instances selected as a sample for the evaluation of different types of cutting-plane procedures presented in Section 6.1 of the manuscript
+
 TB1 
 
 p5
